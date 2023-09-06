@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+    padding: 0;
+    color: powderblue;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.form_area{
+    width: 100%;
+    background-image: url(https://img.freepik.com/free-photo/abstract-design-background-smooth-flowing-lines_1048-14640.jpg?w=740&t=st=1693962470~exp=1693963070~hmac=e114f7c410696b421dd5c0a9ad437ec518ba6a430543b546ae4451a433338625);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    color: #fff;
+    background-attachment: fixed;
+}
+.form_section{
+    width: 80%;
+    margin: auto;
+}
+.form_title{
+    width: 100%;
+    text-align: center;
+    padding: 100px 0px 50px 0px;
+}
+.form_title h1{
+    font-size: 40px;
+    color: powderblue;
+}
+.form_body{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 100px;
+    align-items: center;
+}
+.contuct_us{
+    width: 48%;
+}
+.contuct_us_title{
+
+}
+.contuct_us_title h2{
+    color: #fff;
+    font-size: 30px;
+    padding-bottom: 25px;
+}
+.contuct_us_body{
+
+}
+.contuct_us_body label{
+    line-height: 42px;
+    font-size: 20px;
+}
+.contuct_us_body input{
+    width: 90%;
+    padding: 10px 0px 10px 5px;
+    border-radius: 5px;
+    border: 1px solid #3f3d3d;
+    color: #777;
+}
+.contuct_us_body input[type="submit"]{
+    cursor: pointer;
+    background-color: #0f245f;
+    color: #fff;
+    font-size: 16px;
+    width: 50%;
+    border: 1px dotted #f7f7f7;
+}
+.contuct_us_body textarea{
+    width: 90%;
+    padding: 10px 0px 10px 5px;
+    border-radius: 5px;
+    border: 1px solid #3f3d3d;
+    color: #777;
+    margin-bottom: 30px;
+}
+.contuct_info{
+    width: 48%;
+    border-left: 1px solid #ffffff42;
+    padding-left: 20px;
+}
+.info_title{
+
+}
+.info_title h2{
+    padding: 5px 0px 25px 0px;
+    color: #fff;
+    font-size: 30px;
+}
+.info_body{
+
+}
+.info{
+    width: 100%;
+    display: flex;
+    padding: 20px 0px;
+}
+.icon{
+    font-size: 16px;
+    color: powderblue;
+    padding-right: 20px;
+    padding-top: 28px;
+}
+.icon i{
+
+}
+.main_info{
+
+}
+.main_info h3{
+
+}
+.main_info p{
+
+}
+.main_info a{
+    color: powderblue;
+}
+.main_info p span{
+
+}
